@@ -1,0 +1,45 @@
+{
+    "features": [
+      "Budgeting intervals",
+      "Expense tracking",
+      "Financial goals",
+      "Investment advice"
+    ],
+    "gallery": [
+      "images/screenshot1.png",
+      "images/screenshot2.png",
+      "images/screenshot3.png"
+    ],
+    "testimonials": [
+      {
+        "name": "Dipak Sahu",
+        "feedback": "This app changed my life!"
+      },
+      {
+        "name": "Jay Sahu",
+        "feedback": "A must-have for anyone looking to manage their finances better."
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Basic",
+        "price": "$0/month",
+        "features": [
+          "Feature 1",
+          "Feature 2",
+          "Feature 3"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$9.99/month",
+        "features": [
+          "Feature 1",
+          "Feature 2",
+          "Feature 3",
+          "Feature 4"
+        ]
+      }
+    ]
+  }
+  
